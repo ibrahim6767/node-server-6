@@ -1,4 +1,4 @@
-const BookmarkModel = require('../models/BookmarkModel.js')
+const BookmarkModel = require('../models/bookmarkModel.js')
 
 const mongoose = require('mongoose');
 
